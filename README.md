@@ -22,9 +22,9 @@ aprofundar meus conhecimentos em back-end. <br>
 
 ## Cursos e Certificados
 | <b> Cursos | <b> Instituição | <b> Certificados |
-|-------- | ------------ | --------------------- |
+|-------- | ------------ | ----------------------- |
 | <b> Formação Github Certification | <b> DIO |  [Certificado](https://hermes.dio.me/certificates/UU0LH2EJ.pdf)
-| <b> Networking Basics | CISCO | [Certidicado](https://www.credly.com/badges/2932548c-8795-453c-a45b-15e7af9bb0ae/public_url)
+| <b> Networking Basics | <b> CISCO | [Certidicado](https://www.credly.com/badges/2932548c-8795-453c-a45b-15e7af9bb0ae/public_url)
 
 ## Estatísticas
 ![Marcos Veras GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imveras&layout=compact&langs_count=7&theme=tokyonight)
