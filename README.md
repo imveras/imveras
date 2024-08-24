@@ -5,8 +5,8 @@
 
 ## Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-veras-704753223/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](timozera)
+[![Linked In profile](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linked%20In&color=0077B5&message=@mrcosveras)](https://www.linkedin.com/in/marcos-veras-704753223/)
+![Discord profile](https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&color=5865F2&message=@timozera)
 
 ## Tecnologias
 
@@ -18,11 +18,10 @@
 </p>
 
 ## Cursos e Certificados
-| Cursos | Certificados |
+| <b> Cursos | <b> Certificados |
 |-------- | ------------ |
 | <b> Em processamento ... | <b>Em processamento ...
 
-------
 ![Marcos Veras GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imveras&layout=compact&langs_count=7&theme=tokyonight)
 ![Marcos Veras GitHub Stats](https://github-readme-stats.vercel.app/api?username=imveras&show_icons=true&theme=tokyonight)
 
