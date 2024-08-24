@@ -1,28 +1,29 @@
 # Olá, sejam bem-vindos ao meu Github 👋
 
-🔶 Olá, eu me chamo Marcos Veras ! <br> 💻 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focado em aprofundar meus conhecimentos em backend. <br>
+🔶 Olá, eu me chamo Marcos Veras ! <br>
+💻 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focado em aprofundar meus conhecimentos em backend. <br>
 
+------
 ## Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-veras-704753223/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](timozera)
 
------
-## Tecnologias
+------
+## Minhas Tecnologias
 <div style="display: inline_block">
-  <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-</div>
+<img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
 -----
 | Cursos | Certificados |
-| Carregando ... | Carregando ... | 
+|-------- | ------------ |
+| Carregando ... | [Carregando ...]
 
------
+------
 ![Marcos Veras GitHub stats](https://github-readme-stats.vercel.app/api?username=imveras&show_icons=true&theme=tokyonight)
 
-![Marcos Veras GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imveras&layout=compact&langs_count=7&theme=tokyonight/)
 
 
 
