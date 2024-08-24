@@ -11,7 +11,7 @@
 
 
 ## Tecnologias
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
    <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
