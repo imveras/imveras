@@ -11,18 +11,22 @@
 
 ------
 ## Minhas Tecnologias
+<p>
 <div style="display: inline_block">
 <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 -----
 | Cursos | Certificados |
 |-------- | ------------ |
-| Carregando ... | [Carregando ...]
+| Em processamento ... | Em processamento ...
 
 ------
-![Marcos Veras GitHub stats](https://github-readme-stats.vercel.app/api?username=imveras&show_icons=true&theme=tokyonight)
+![Marcos Veras GitHub Stats](https://github-readme-stats.vercel.app/api?username=imveras&show_icons=true&theme=tokyonight)
+
+![Marcos Veras GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imveras&layout=compact&langs_count=7&theme=tokyonight)
 
 
 
