@@ -22,8 +22,7 @@
 |-------- | ------------ |
 | <b> Em processamento ... | <b>Em processamento ...
 
-<br>
-
+## Estatísticas
 ![Marcos Veras GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imveras&layout=compact&langs_count=7&theme=tokyonight)
 ![Marcos Veras GitHub Stats](https://github-readme-stats.vercel.app/api?username=imveras&show_icons=true&theme=tokyonight)
 
