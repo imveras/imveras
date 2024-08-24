@@ -1,7 +1,9 @@
 # Olá, sejam bem-vindos ao meu Github 👋
 
-🔶 <b> Olá, eu me chamo Marcos Veras ! <br>
-💻 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focado em aprofundar meus conhecimentos em backend. </b> <br>
+- 🔶 <b> Olá, eu me chamo Marcos Veras ! <br>
+- 💻 Futuro Tecnólogo em Análise e Desenvolvimento de Sistemas <br>
+- 🔧 Backend <br>
+- 📚 "Nenhum poder no mundo pode alterar o destino."
 
 ## Vamos nos conectar?
 
