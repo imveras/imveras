@@ -24,9 +24,11 @@
 | Em processamento ... | Em processamento ...
 
 ------
-![Marcos Veras GitHub Stats](https://github-readme-stats.vercel.app/api?username=imveras&show_icons=true&theme=tokyonight)
-
-![Marcos Veras GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imveras&layout=compact&langs_count=7&theme=tokyonight)
+<div>
+<a href="https://github.com/imveras">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=imveras&show_icons=true&theme=tokyonight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imveras&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 
 
