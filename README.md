@@ -1,4 +1,4 @@
-# Olá, sejam bem-vindos ao meu Github 👋
+# Sejam bem-vindos ao meu Github 👋
 
 - 🔶 <b> Olá, eu me chamo Marcos Veras ! <br>
 - 💻 Futuro Tecnólogo em Análise e Desenvolvimento de Sistemas, atualmente focado em 
