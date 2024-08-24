@@ -3,7 +3,7 @@
 - 🔶 <b> Olá, eu me chamo Marcos Veras ! <br>
 - 💻 Futuro Tecnólogo em Análise e Desenvolvimento de Sistemas, atualmente focado em 
 aprofundar meus conhecimentos em backend. <br>
-- 📚 "Nenhum poder no mundo pode alterar o destino."
+- 📚 Sou um observador do universo que está em eterno aprendizado.
 
 ## Vamos nos conectar?
 
