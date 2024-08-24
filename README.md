@@ -23,7 +23,7 @@ aprofundar meus conhecimentos em back-end. <br>
 ## Cursos e Certificados
 | <b> Cursos | <b> Certificados |
 |-------- | ------------ |
-| <b> Em processamento ... | <b> Em processamento ...
+| <b> Formação Github Certification | [Certificado](https://hermes.dio.me/certificates/UU0LH2EJ.pdf)
 
 ## Estatísticas
 ![Marcos Veras GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imveras&layout=compact&langs_count=7&theme=tokyonight)
