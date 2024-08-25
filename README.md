@@ -1,8 +1,7 @@
 # Sejam bem-vindos ao meu Github 👋
 
 - 🔶 <b> Olá, eu me chamo Marcos Veras <br>
-- 💻 Futuro Tecnólogo em Análise e Desenvolvimento de Sistemas, atualmente focado em 
-aprofundar meus conhecimentos em back-end. <br>
+- 💻 Futuro Tecnólogo em Análise e Desenvolvimento de Sistemas, atualmente focado em aprofundar meus conhecimentos nesse vasto universo da programação. <br>
 - 📚 Sou um observador do universo que está em eterno aprendizado.
 
 ## Vamos nos conectar?
