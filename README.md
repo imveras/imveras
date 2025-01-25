@@ -1,13 +1,13 @@
 # Sejam bem-vindos ao meu Github 👋
 
-- 🔶 <b> Olá, eu me chamo Marcos Veras <br>
-- 💻 Futuro Tecnólogo em Análise e Desenvolvimento de Sistemas, atualmente focado em aprofundar meus conhecimentos nesse vasto universo da programação. <br>
+- 🔶 <b> Olá, eu me chamo Marcos André Veras <br>
+- 💻 Análista de NOC e SOC Junior | BlueTeam <br>
 - 📚 Sou um observador do universo que está em eterno aprendizado.
 
 ## Vamos nos conectar?
 
-[![Linked In profile](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linked%20In&color=0077B5&message=@mrcosveras)](https://www.linkedin.com/in/marcos-veras-704753223/)
-[![Discord profile](https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&color=5865F2&message=@timozera)](https://discordapp.com/users/1022208247547047956)
+[![Linked In profile](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linked%20In&color=0077B5&message=@mrcosveras)](https://www.linkedin.com/in/marcos-andr%C3%A9-veras-43b91a336/)
+[![Discord profile](https://img.shields.io/static/v1?style=flat-square&logo=discord&label=Discord&color=5865F2&message=@timozera)](https://discordapp.com/users/848326266457292871)
 
 ## Tecnologias
 
